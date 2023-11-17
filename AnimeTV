@@ -1,0 +1,84 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="1" tvg-name="ANIMESTATION TV" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", ANIMESTATION TV
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="RETROTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqt2JrWCt5w0DrBgW7RybqZQngeAb6AZwPhg&usqp=CAU", RETROTV
+https://cageu.bozztv.com/ssh101/ssh101/retrotvcr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="MÁGIC KIDS" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", MÁGIC KIDS
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="RETRO MAGICO" tvg-logo="https://static.wixstatic.com/media/3ebf2e_6c71f9a7aa66459ea6140c872c515467~mv2.png/v1/crop/x_21,y_41,w_1259,h_566/fill/w_244,h_110,al_c,q_85,usm", RETRO MAGICO
+https://rpn3.bozztv.com/ssh101/ssh101/retromagicochnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="ENERGEEK FANPOP" tvg-logo="https://i2.paste.pics/5d6d67c298360548fd41a897f987628c.png", ENERGEEK FANPOP
+https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="ENERGEEK" tvg-logo="https://i2.paste.pics/5efe361b75000b6eb6104bf22a0880fe.png", ENERGEEK
+https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="DREIKO TV" tvg-logo="https://i.imgur.com/k8U0e0b.png", DREIKO TV
+https://wifiexpert-1.energeek.cl/dreikotv/canal-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="RETROPLAY TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", RETROPLAY TV
+https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="GOGOPLAY TV" tvg-logo="https://i.imgur.com/tCwRSRr.png", GOGOPLAY TV
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-name="GENTV" tvg-logo="https://i.imgur.com/V9UTZ0D.png", GENTV
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="NEXTHD TV" tvg-logo="https://i.imgur.com/4rLvUKD.png", NEXTHD TV
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="MÁXIMA TV" tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png", MAXIMA TV
+https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="VARIED TV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png", VARIED TV
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="CANAL LMS" tvg-logo="https://i.imgur.com/RUuoMlL.png", CANAL LMS
+https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="LATINO KIDS" tvg-logo="https://i2.paste.pics/e1ff8587666990c8f6c8a6fa24d3055f.png", LATINO KIDS
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="MONI TV" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png", MONI TV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="PLANETA TV" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PLANETA TV
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-name="+CINE" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png", +CINE
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="CLASSIC CHANNEL" tvg-logo="https://i2.paste.pics/d2ece12bb549ab394f008dd5415ebbbf.png", CLASSIC CHANNEL
+https://paneltv.online:1936/8046/8046/playlist.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-name="NEO TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/905000577be178c0376e181006b6ccd8.webp", NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+EXTINF:-1 tvg-id="20" tvg-name="PANDAMAXTV" tvg-logo="https://i2.paste.pics/ec98378f852412f496eaa557998255ac.png", PANDAMAXTV
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+
+EXTINF:-1 tvg-id="21" tvg-name="BITME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest?cb=20200123215611&path-prefix=es", BITME
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/85.m3u8
+
+EXTINF:-1 tvg-id="22" tvg-name="TOONCAST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Tooncast_%28purple%29.png/revision/latest?cb=20161207193321", TOONCAST
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/347.m3u8
+
+EXTINF:-1 tvg-id="23" tvg-name="TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/273.m3u8
+
+EXTINF:-1 tvg-id="24" tvg-name="WARNER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF8UExRKLRwcP-7SVpEsiYK17oRzHaAA7aPQ&usqp=CAU", WARNER
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/206.m3u8
+
+EXTINF:-1 tvg-id="25" tvg-name="ACS NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuS_YsFyMKP3q1R0xJmkZJ2ryvNvTw7nlqj2OUgew2Cg&s", ACS NETWORK
+https://5790d294af2dc.streamlock.net/acsnetworkq/acsnetwork/playlist.m3u8
+
+EXTINF:-1 tvg-id="26" tvg-name="WOW TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a5da7d81b208bec79c6ff2c0e90ec8a6.webp", WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+EXTINF:-1 tvg-id="26" tvg-name="TERROR TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", TERROR TV
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
