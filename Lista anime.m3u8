@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="1" tvg-name="ANIMESTATION TV" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", ANIMESTATION TV
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="RETROTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqt2JrWCt5w0DrBgW7RybqZQngeAb6AZwPhg&usqp=CAU", RETROTV
-https://cageu.bozztv.com/ssh101/ssh101/retrotvcr/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="TNT series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqt2JrWCt5w0DrBgW7RybqZQngeAb6AZwPhg&usqp=CAU", RETROTV
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/273.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="MÁGIC KIDS" tvg-logo="https://i.paste.pics/d70bd8de125ec9cee654a09743c6d533.png", MÁGIC KIDS
 https://magicstream.ddns.net/magicstream/stream.m3u8
@@ -44,8 +44,8 @@ https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="LATINO KIDS" tvg-logo="https://i2.paste.pics/e1ff8587666990c8f6c8a6fa24d3055f.png", LATINO KIDS
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-name="MONI TV" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png", MONI TV
-http://23.148.145.82:25461/live/televall/R1WyjpMhlp/371.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="Bitme" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png", MONI TV
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/85.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="PLANETA TV" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PLANETA TV
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
@@ -56,7 +56,7 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CLASSIC CHANNEL" tvg-logo="https://i2.paste.pics/d2ece12bb549ab394f008dd5415ebbbf.png", CLASSIC CHANNEL
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-name="NEO TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/905000577be178c0376e181006b6ccd8.webp", NEO TV
+#EXTINF:-1 tvg-id="20" tvg-name="PANDAMAX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/905000577be178c0376e181006b6ccd8.webp", NEO TV
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
 EXTINF:-1 tvg-id="21" tvg-name="PANDAMAXTV" tvg-logo="https://i2.paste.pics/ec98378f852412f496eaa557998255ac.png", PANDAMAXTV
