@@ -45,7 +45,7 @@ https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-name="MONI TV" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png", MONI TV
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+http://23.148.145.82:25461/live/televall/R1WyjpMhlp/371.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="PLANETA TV" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PLANETA TV
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
@@ -57,7 +57,7 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-name="NEO TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/905000577be178c0376e181006b6ccd8.webp", NEO TV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
 EXTINF:-1 tvg-id="21" tvg-name="PANDAMAXTV" tvg-logo="https://i2.paste.pics/ec98378f852412f496eaa557998255ac.png", PANDAMAXTV
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
